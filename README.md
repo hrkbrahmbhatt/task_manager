@@ -8,4 +8,4 @@
 
 Here's what it looks like in action. ( Wait for GIF )
 
-![Alt Text](https://github.com/hrkbrahmbhatt/PayTrail/blob/master/taskapi.gif)
+![Alt Text](https://github.com/hrkbrahmbhatt/task_manager/blob/master/taskapi.gif)
